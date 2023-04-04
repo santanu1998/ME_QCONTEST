@@ -13,7 +13,7 @@ Implemented the business logic of running a simulated contest.
 
 ## Extended Overview
 
-
+![c3d2df4c-a776-4359-8fa3-f310311c0485](https://user-images.githubusercontent.com/69622683/229773661-03288723-6814-43cc-befd-ccc5e4e2617f.png)
 
 ## Implement Entities
 
